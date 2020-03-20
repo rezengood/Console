@@ -1,0 +1,356 @@
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: Hardware: iMac14,2 @ 3.20 GHz (x 4), 8192 MB RAM
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: Running OS Build: Mac OS X 10.9.5 (13F1911)
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: Env: PATH=/usr/bin:/bin:/usr/sbin:/sbin
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: Env: TMPDIR=/var/folders/xd/cklfksnj1n32frd3d481j7pw0000gn/T/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: Env: SHELL=/bin/bash
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: Env: HOME=/Users/maupile
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: Env: USER=maupile
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: Env: LOGNAME=maupile
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: Env: SSH_AUTH_SOCK=/tmp/launch-ncATNz/Listeners
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: Env: Apple_PubSub_Socket_Render=/tmp/launch-vSjxwj/Render
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: Env: __CF_USER_TEXT_ENCODING=0x1F5:0:91
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: Env: __CHECKFIX1436934=1
+Mar 18 10:36:56 imac-de-maupile.home osinstallersetupplaind[19608]: OSISSoftwareUpdateController: Using catalog (source: GM Default): https://swscan.apple.com/content/catalogs/others/index-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog
+Mar 18 10:36:56 imac-de-maupile.home osinstallersetupplaind[19608]: Using product <OSISSharedSupportProduct: 0x7fef8be0b0e0> at distance 10
+Mar 18 10:36:56 imac-de-maupile.home osinstallersetupplaind[19608]: Using product <OSISPredicateUpdateProduct: 0x7fef8bd05260> at distance 20
+Mar 18 10:36:56 imac-de-maupile.home osinstallersetupplaind[19608]: isConvertableToAPFS: was called on disk0s1, an APFS disk.
+Mar 18 10:36:56 imac-de-maupile.home osinstallersetupplaind[19608]: osinstallersetupd registered client
+Mar 18 10:36:56 imac-de-maupile.home osinstallersetupplaind[19608]: disk0s1 is not convertible to APFS: Ce volume n’est pas au format Mac OS étendu (journalisé).
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: updateBundle loaded at: /System/Library/CoreServices/CompatibilityNotificationData.bundle
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Adobe%20Reader.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Microsoft%20Word.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/iPhoto.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Microsoft%20Excel.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Microsoft Office 2011/Microsoft Excel.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Microsoft%20PowerPoint.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Microsoft Office 2011/Microsoft PowerPoint.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Microsoft%20Outlook.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Microsoft Office 2011/Microsoft Outlook.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Office/Microsoft%20Alerts%20Daemon.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Microsoft Office 2011/Office/Microsoft Alerts Daemon.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Office/Microsoft%20Chart%20Converter.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Microsoft Office 2011/Office/Microsoft Chart Converter.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Office/Microsoft%20Clip%20Gallery.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Microsoft Office 2011/Office/Microsoft Clip Gallery.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Office/Microsoft%20Database%20Daemon.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Microsoft Office 2011/Office/Microsoft Database Daemon.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Office/Microsoft%20Database%20Utility.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Microsoft Office 2011/Office/Microsoft Database Utility.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Office/Microsoft%20Graph.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Microsoft Office 2011/Office/Microsoft Graph.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Office/Microsoft%20Office%20Reminders.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Microsoft Office 2011/Office/Microsoft Office Reminders.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Office/Microsoft%20Office%20Setup%20Assistant.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Microsoft Office 2011/Office/Microsoft Office Setup Assistant.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Office/Microsoft%20Upload%20Center.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Microsoft Office 2011/Office/Microsoft Upload Center.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Office/My%20Day.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Microsoft Office 2011/Office/My Day.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Office/Office365Service.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Microsoft Office 2011/Office/Office365Service.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Office/Open%20XML%20for%20Excel.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Microsoft Office 2011/Office/Open XML for Excel.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Office/SyncServicesAgent.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Microsoft Office 2011/Office/SyncServicesAgent.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Office/Microsoft%20Query.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Microsoft Office 2011/Office/Microsoft Query.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Office/Macros%20comple%CC%81mentaires/Solver.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Microsoft Office 2011/Office/Macros complémentaires/Solver.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Office/Equation%20Editor.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Microsoft Office 2011/Office/Equation Editor.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Microsoft%20Office%202011/Microsoft%20Document%20Connection.app/
+Mar 18 10:36:56 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Microsoft Office 2011/Microsoft Document Connection.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Canon%20Utilities/My%20Image%20Garden/AddOn/CIG/CiGDownLoadAPP.app/
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Canon Utilities/My Image Garden/AddOn/CIG/CiGDownLoadAPP.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/UnRarX.app/
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/UnRarX.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/Impactor.app/
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/Impactor.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]: App URL:/Applications/DVD%20Player.app/
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]: _IAAppForURL: dropping item '/Applications/DVD Player.app' - exceeded minimum 60 days to ignore app
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]: _curateIncompatibleAppList
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]: compatPlist loaded at: /Applications/Install macOS Catalina.app/Contents/Resources/CompatibilityNotificationData.bundle/Contents/Resources/CompatibilityNotificationData.plist
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]: _curateIntel32BitApps
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]: mappingDict
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]:     {
+	    "com.adobe.Acrobat.Pro" =     {
+	        "Application Name" = AdobeAcrobatKey;
+	        "Group With" = AdobeAcrobatGroupKey;
+	        "Maximum Version" = 11;
+	        "Minimum Version" = "0.0";
+	    };
+	    "com.adobe.Audition.5.0" =     {
+	        "Group With" = AdobeCreativeSuiteGroupKey;
+	        "Maximum Version" = "5.9";
+	        "Minimum Version" = 0;
+	    };
+	    "com.adobe.ExtensionManager" =     {
+	        "Application Name" = AdobeExtensionManagerKey;
+	        "Group With" = AdobeCreativeSuiteGroupKey;
+	        "Maximum Version" = "7.0";
+	        "Minimum Version" = 0;
+	    };
+	    "com.adobe.InDesign" =     {
+	        "Group With" = AdobeCreativeSuiteGroupKey;
+	        "Maximum Version" = 8900;
+	        "Minimum Version" = 0;
+	    };
+	    "com.adobe.PDApp" =     {
+	        "Application Name" = AdobeApplicationManagerKey;
+	        "Group With" = AdobeCreativeSuiteGroupKey;
+	        "Maximum Version" = "9.9";
+	        "Minimum Version" = "6.0";
+	    };
+	    "com.adobe.PDApp.AAMUpdatesNotifier" =     {
+	        "Application Name" = AdobeApplicationManagerKey;
+	        "Group With" = AdobeCreativeSuiteGroupKey;
+	        "Maximum Version" = "9.9";
+	        "Minimum Version" = "6.0";
+	    };
+	    "com.adobe.distiller" =     {
+	        "Application Name" = AdobeAcrobatDistillerKey;
+	        "Group With" = AdobeAcrobatGroupKey;
+	        "Maximum Version" = 11;
+	        "Minimum Version" = "0.0";
+	    };
+	    "com.adobe.dreamweaver-12.0" =     {
+	        "Group With" = AdobeCreativeSuiteGroupKey;
+	        "Maximum Version" = "12.9";
+	        "Minimum Version" = 0;
+	    };
+	    "com.adobe.estoolkit-4.0" =     {
+	        "Application Name" = AdobeExtendScriptToolkitKey;
+	        "Minimum Version" = "0.0";
+	    };
+	    "com.adobe.flash" =     {
+	        "Group With" = AdobeCreativeSuiteGroupKey;
+	        "Maximum Version" = "12.9";
+	        "Minimum Version" = 0;
+	    };
+	    "com.macromedia.fireworks" =     {
+	        "Group With"Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]: ignoreDict
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]:     {
+	    "com.adobe.switchboard-2.0" =     {
+	        "Minimum Version" = "0.0";
+	    };
+	    "com.amazon.Kindle" =     {
+	        "Maximum Version" = 50157;
+	    };
+	    "com.bittorrent.BitTorrent" =     {
+	        "Minimum Version" = "0.0";
+	    };
+	    "com.divx.DivXConverter" =     {
+	        "Minimum Version" = "0.0";
+	    };
+	    "com.divx.DivXEngine" =     {
+	        "Minimum Version" = "0.0";
+	    };
+	    "com.divx.DivXMediaServer" =     {
+	        "Minimum Version" = "0.0";
+	    };
+	    "com.divx.DivXUpdate" =     {
+	        "Minimum Version" = "0.0";
+	    };
+	    "com.divx.DivX_Player" =     {
+	        "Minimum Version" = "0.0";
+	    };
+	    "com.divx.DivX_Preferences" =     {
+	        "Minimum Version" = "0.0";
+	    };
+	    "com.divx.TransferWizard" =     {
+	        "Minimum Version" = "0.0";
+	    };
+	    "com.divxinc.uninstalldivxformac" =     {
+	        "Minimum Version" = "0.0";
+	    };
+	    "com.microsoft.Excel" =     {
+	        "Maximum Version" = "15.24";
+	        "Minimum Version" = "15.0";
+	    };
+	    "com.microsoft.Outlook" =     {
+	        "Maximum Version" = "15.24";
+	        "Minimum Version" = "15.0";
+	    };
+	    "com.microsoft.Powerpoint" =     {
+	        "Maximum Version" = "15.24";
+	        "Minimum Version" = "15.0";
+	    };
+	    "com.microsoft.Word" =     {
+	        "Maximum Version" = "15.24";
+	        "Minimum Version" = "15.0";
+	    };
+	    "com.microsoft.onenote.mac" =     {
+	        "Maximum Version" = "15.24";
+	        "Minimum Version" = "15.0";
+	    };
+	    "com.riotgames.LeagueofLegends.LeagueClient" =     {
+	        "Minimum Version" = "0.0";
+	    };
+	    "com.riotgames.leagueoflegends" =     {
+	        "Minimum Version" = "0.0";
+	    };
+	    "org.audacityteam.audacity" =     {
+	        "Maximum Version" = "2.3.1.0 ";
+	    };
+	}
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]: iterating incompatibleAppList
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]: ------
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]:     Adobe Reader
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]:     com.adobe.Reader
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]:     11.0.23
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]:     did not add mapping for: <IACompatibilityCheckerApp: 0x7fc88a4b67f0>
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]: ------
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]:     Microsoft Word
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]:     com.microsoft.Word
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]:     14.7.7
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]:     ignoreAppEntry for this item: {
+	    "Maximum Version" = "15.24";
+	    "Minimum Version" = "15.0";
+	}
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]:     Not ignoring this entry!
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]:     mappingEntry for this item: {
+	    "Group With" = MicrosoftOffice2011GroupKey;
+	    "Maximum Version" = "14.9";
+	}
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]:     Updating because app.version (14.7.7) <= maxVersionString (14.9)
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]:     mapping updated: <IACompatibilityCheckerApp: 0x7fc88a6e0d20>
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]: _curateIntel32BitDependentApps
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]: mappingDict
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]:     {
+	    "adobe.SpeedGrade" =     {
+	        "Application Name" = AdobeSpeedgradeKey;
+	        "Maximum Version" = "10.0";
+	        "Minimum Version" = "0.0";
+	    };
+	    "com.adobe.AdobePremierePro" =     {
+	        "Group With" = AdobeCreativeSuiteGroupKey;
+	        "Maximum Version" = "6.2";
+	        "Minimum Version" = "0.0";
+	    };
+	    "com.adobe.Photoshop" =     {
+	        "Group With" = AdobeCreativeSuiteGroupKey;
+	        "Maximum Version" = "13.2";
+	        "Minimum Version" = "0.0";
+	    };
+	    "com.adobe.illustrator" =     {
+	        "Group With" = AdobeCreativeSuiteGroupKey;
+	        "Maximum Version" = "16.0.4";
+	        "Minimum Version" = "0.0";
+	    };
+	    "com.apple.Aperture" =     {
+	        "Application Name" = ApertureKey;
+	        "Maximum Version" = "4.0";
+	        "Minimum Version" = "0.0";
+	    };
+	    "com.apple.iPhoto" =     {
+	        "Application Name" = iPhotoKey;
+	        "Maximum Version" = 1000;
+	        "Minimum Version" = "0.0";
+	    };
+	}
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]: iterating intel64AppList
+Mar 18 10:36:57 imac-de-maupile.home InstallAssistant_plain[19603]: Finished searching for incompatible/32 bit apps
+Mar 18 10:36:58 imac-de-maupile.home osinstallersetupplaind[19608]: Using product <OSISPredicateUpdateInstallerProduct: 0x7fef8bf41000> at distance 25
+Mar 18 10:37:06 imac-de-maupile.home InstallAssistant_plain[19603]: LSExceptions [0x7fc88a420250] unloaded
+Mar 18 10:37:11 imac-de-maupile.home osinstallersetupplaind[19608]: OSISSoftwareUpdateController: Loaded catalog https://swscan.apple.com/content/catalogs/others/index-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog (568 products)
+Mar 18 10:37:12 imac-de-maupile.home osinstallersetupplaind[19608]: OSISPredicateUpdateProduct: OS Installation Payload: Evaluating products in catalog
+Mar 18 10:37:12 imac-de-maupile.home osinstallersetupplaind[19608]: OSISPredicateUpdateProduct: Incompatible Apps List: Evaluating products in catalog
+Mar 18 10:38:14 imac-de-maupile.home InstallAssistant_plain[19603]: diskAppeared: (null)
+Mar 18 10:38:15 imac-de-maupile.home InstallAssistant_plain[19603]: diskEjected: (null)
+Mar 18 10:38:43 imac-de-maupile.home osinstallersetupplaind[19608]: JS: 10.9.5
+Mar 18 10:38:46 imac-de-maupile.home osinstallersetupplaind[19608]: JS: 10.9.5
+Mar 18 10:38:51 imac-de-maupile.home osinstallersetupplaind[19608]: OSISPredicateUpdateProduct: OS Installation Payload: Finished evaluating products in catalog (51 installable products)
+Mar 18 10:38:51 imac-de-maupile.home osinstallersetupplaind[19608]: OSISPredicateUpdateProduct: <IAMSUProduct: key=061-44387, name="macOS Catalina", evaluated=YES, installable=YES, staged=NO>: Found product: OS Installation Payload
+Mar 18 10:38:51 imac-de-maupile.home osinstallersetupplaind[19608]: Using identifier for InstallInfo from ExtendedMetaInfo
+Mar 18 10:38:51 imac-de-maupile.home osinstallersetupplaind[19608]: Using identifier for OS install from ExtendedMetaInfo
+Mar 18 10:38:51 imac-de-maupile.home osinstallersetupplaind[19608]: OSISPredicateUpdateInstallerProduct: Downloading http://swcdn.apple.com/content/downloads/47/20/061-44387-A_FV9KA9D9EY/g6dlznrbw0mchuh9dvusbzd3ld7prg4h3z/InstallInfo.plist
+Mar 18 10:38:51 imac-de-maupile.home osinstallersetupplaind[19608]: OSISPredicateUpdateInstallerProduct: Downloading http://swcdn.apple.com/content/downloads/47/20/061-44387-A_FV9KA9D9EY/g6dlznrbw0mchuh9dvusbzd3ld7prg4h3z/OSInstall.mpkg
+Mar 18 10:38:51 imac-de-maupile.home osinstallersetupplaind[19608]: OSISSimpleDownloaderDelegate: packageDownloaderDidStart:
+Mar 18 10:38:51 imac-de-maupile.home osinstallersetupplaind[19608]: OSISSimpleDownloaderDelegate: packageDownloader:didChangeProgress: 0.00
+Mar 18 10:38:51 imac-de-maupile.home osinstallersetupplaind[19608]: OSISSimpleDownloaderDelegate: packageDownloader:didStartDownloadingPackageWithReference: com.apple.plist.InstallInfo
+Mar 18 10:38:51 imac-de-maupile.home osinstallersetupplaind[19608]: OSISPredicateUpdateProduct: Incompatible Apps List: Finished evaluating products in catalog (51 installable products)
+Mar 18 10:38:51 imac-de-maupile.home osinstallersetupplaind[19608]: OSISPredicateUpdateProduct: <IAMSUProduct: key=061-34781, name="Compatibility Update for 10.15", evaluated=YES, installable=YES, staged=NO>: Found product: Incompatible Apps List
+Mar 18 10:38:51 imac-de-maupile.home osinstallersetupplaind[19608]: Found incompatible apps list on software update catalog
+Mar 18 10:38:51 imac-de-maupile.home osinstallersetupplaind[19608]: PackageKit: No native mechanism to verify InstallInfo.plist
+Mar 18 10:38:51 imac-de-maupile.home osinstallersetupplaind[19608]: OSISSimpleDownloaderDelegate: packageDownloader:didFinishPackageReference:localPackageReference: com.apple.plist.InstallInfo
+Mar 18 10:38:51 imac-de-maupile.home osinstallersetupplaind[19608]: OSISSimpleDownloaderDelegate: packageDownloader:didStartDownloadingPackageWithReference: com.apple.mpkg.OSInstall
+Mar 18 10:38:52 imac-de-maupile.home osinstallersetupplaind[19608]: OSISSimpleDownloaderDelegate: packageDownloader:didChangeProgress: 8.27
+Mar 18 10:38:52 imac-de-maupile.home osinstallersetupplaind[19608]: OSISSimpleDownloaderDelegate: packageDownloader:didChangeProgress: 35.92
+Mar 18 10:38:53 imac-de-maupile.home osinstallersetupplaind[19608]: OSISSimpleDownloaderDelegate: packageDownloader:didChangeProgress: 61.29
+Mar 18 10:38:53 imac-de-maupile.home osinstallersetupplaind[19608]: OSISSimpleDownloaderDelegate: packageDownloader:didChangeProgress: 86.02
+Mar 18 10:38:53 imac-de-maupile.home osinstallersetupplaind[19608]: OSISSimpleDownloaderDelegate: packageDownloader:didFinishPackageReference:localPackageReference: com.apple.mpkg.OSInstall
+Mar 18 10:38:53 imac-de-maupile.home osinstallersetupplaind[19608]: OSISSimpleDownloaderDelegate: packageDownloader:didChangeProgress: 100.00
+Mar 18 10:38:53 imac-de-maupile.home osinstallersetupplaind[19608]: OSISSimpleDownloaderDelegate: packageDownloaderDidStop, signalling
+Mar 18 10:38:53 imac-de-maupile.home osinstallersetupplaind[19608]: OSISPredicateUpdateInstallerProduct: Downloaded InstallInfo.plist to file:///var/tmp/OSISPredicateUpdateProductTemp/InstallInfo.plist
+Mar 18 10:38:53 imac-de-maupile.home osinstallersetupplaind[19608]: OSISPredicateUpdateInstallerProduct: Downloaded OSInstall.mpkg to file:///var/tmp/OSISPredicateUpdateProductTemp/OSInstall.mpkg
+Mar 18 10:38:53 imac-de-maupile.home osinstallersetupplaind[19608]: Predicate update product fetch succeeded!
+Mar 18 10:38:53 imac-de-maupile.home osinstallersetupplaind[19608]: Got and processed license agreement message
+Mar 18 10:38:54 imac-de-maupile.home osinstallersetupplaind[19608]: Specifier (<PKPackageSpecifier>:
+	{
+	    URL = "file:///var/tmp/OSISPredicateUpdateProductTemp/Core.pkg";
+	    authLevel = 2;
+	    displayName = macOS;
+	    identifier = "com.apple.pkg.Core";
+	    options = 0;
+	    version = "10.15.3.0.0.1579784814";
+	}) missing reference.
+Mar 18 10:38:54 imac-de-maupile.home osinstallersetupplaind[19608]: Specifier (<PKPackageSpecifier>:
+	{
+	    URL = "file:///var/tmp/OSISPredicateUpdateProductTemp/EmbeddedOSFirmware.pkg";
+	    authLevel = 2;
+	    displayName = macOS;
+	    identifier = "com.apple.pkg.EmbeddedOSFirmware";
+	    options = 0;
+	    version = "10.15.3.0.0.1579784814";
+	}) missing reference.
+Mar 18 10:38:54 imac-de-maupile.home osinstallersetupplaind[19608]: Specifier (<PKPackageSpecifier>:
+	{
+	    URL = "file:///var/tmp/OSISPredicateUpdateProductTemp/SecureBoot.pkg";
+	    authLevel = 2;
+	    displayName = macOS;
+	    identifier = "com.apple.pkg.SecureBoot";
+	    options = 0;
+	    version = "10.15.3.0.0.1579784814";
+	}) missing reference.
+Mar 18 10:38:54 imac-de-maupile.home osinstallersetupplaind[19608]: Warning: couldn't obtain xar-verified URL for http://swcdn.apple.com/content/downloads/42/39/061-34781/e1q2mivt6gvn0ek0lnt3uibgt4ugp7hjp4/OSX_10_15_IncompatibleAppList.pkg
+Mar 18 10:38:54 imac-de-maupile.home osinstallersetupplaind[19608]: Warning: couldn't obtain xar-verified URL for http://swcdn.apple.com/content/downloads/42/39/061-34781/e1q2mivt6gvn0ek0lnt3uibgt4ugp7hjp4/OSX_10_15_IncompatibleAppList.pkg
+Mar 18 10:38:54 imac-de-maupile.home osinstallersetupplaind[19608]: Warning: couldn't obtain xar-verified URL for http://swcdn.apple.com/content/downloads/42/39/061-34781/e1q2mivt6gvn0ek0lnt3uibgt4ugp7hjp4/OSX_10_15_IncompatibleAppList.pkg
+Mar 18 10:38:54 imac-de-maupile.home osinstallersetupplaind[19608]: Warning: couldn't obtain xar-verified URL for http://swcdn.apple.com/content/downloads/42/39/061-34781/e1q2mivt6gvn0ek0lnt3uibgt4ugp7hjp4/OSX_10_15_IncompatibleAppList.pkg
+Mar 18 10:38:54 imac-de-maupile.home osinstallersetupplaind[19608]: Warning: couldn't obtain xar-verified URL for http://swcdn.apple.com/content/downloads/42/39/061-34781/e1q2mivt6gvn0ek0lnt3uibgt4ugp7hjp4/OSX_10_15_IncompatibleAppList.pkg
+Mar 18 10:38:54 imac-de-maupile.home osinstallersetupplaind[19608]: Warning: couldn't obtain xar-verified URL for http://swcdn.apple.com/content/downloads/42/39/061-34781/e1q2mivt6gvn0ek0lnt3uibgt4ugp7hjp4/OSX_10_15_IncompatibleAppList.pkg
+Mar 18 10:38:54 imac-de-maupile.home osinstallersetupplaind[19608]: Warning: couldn't obtain xar-verified URL for http://swcdn.apple.com/content/downloads/42/39/061-34781/e1q2mivt6gvn0ek0lnt3uibgt4ugp7hjp4/OSX_10_15_IncompatibleAppList.pkg
+Mar 18 10:38:54 imac-de-maupile.home osinstallersetupplaind[19608]: Warning: couldn't obtain xar-verified URL for http://swcdn.apple.com/content/downloads/42/39/061-34781/e1q2mivt6gvn0ek0lnt3uibgt4ugp7hjp4/OSX_10_15_IncompatibleAppList.pkg
+Mar 18 10:38:54 imac-de-maupile.home osinstallersetupplaind[19608]: Warning: couldn't obtain xar-verified URL for http://swcdn.apple.com/content/downloads/42/39/061-34781/e1q2mivt6gvn0ek0lnt3uibgt4ugp7hjp4/OSX_10_15_IncompatibleAppList.pkg
+Mar 18 10:38:54 imac-de-maupile.home osinstallersetupplaind[19608]: Warning: couldn't obtain xar-verified URL for http://swcdn.apple.com/content/downloads/42/39/061-34781/e1q2mivt6gvn0ek0lnt3uibgt4ugp7hjp4/OSX_10_15_IncompatibleAppList.pkg
+Mar 18 10:38:54 imac-de-maupile.home osinstallersetupplaind[19608]: Warning: couldn't obtain xar-verified URL for http://swcdn.apple.com/content/downloads/42/39/061-34781/e1q2mivt6gvn0ek0lnt3uibgt4ugp7hjp4/OSX_10_15_IncompatibleAppList.pkg
+Mar 18 10:38:54 imac-de-maupile.home osinstallersetupplaind[19608]: Warning: couldn't obtain xar-verified URL for http://swcdn.apple.com/content/downloads/42/39/061-34781/e1q2mivt6gvn0ek0lnt3uibgt4ugp7hjp4/OSX_10_15_IncompatibleAppList.pkg
+Mar 18 10:38:54 imac-de-maupile.home osinstallersetupplaind[19608]: bytesRequiredToInstallForTarget (/): downloadSize:  8154953733, spaceRequired:  14840024064
+Mar 18 10:38:54 imac-de-maupile.home osinstallersetupplaind[19608]: Free space: 740762124288
+Mar 18 10:40:14 imac-de-maupile.home InstallAssistant_plain[19603]: diskAppeared: (null)
+Mar 18 10:40:18 imac-de-maupile.home InstallAssistant_plain[19603]: diskAppeared: disk1
+Mar 18 10:40:18 imac-de-maupile.home InstallAssistant_plain[19603]: Ignoring non-user-visible disk IADisk_10_6: disk1 (null) as target
+Mar 18 10:40:18 imac-de-maupile.home InstallAssistant_plain[19603]: diskAppeared: disk1s1
+Mar 18 10:40:18 imac-de-maupile.home InstallAssistant_plain[19603]: Ignoring non-user-visible disk IADisk_10_6: disk1s1 EFI as target
+Mar 18 10:40:18 imac-de-maupile.home InstallAssistant_plain[19603]: diskAppeared: disk1s2
+Mar 18 10:40:18 imac-de-maupile.home InstallAssistant_plain[19603]: Ignoring non-user-visible disk IADisk_10_6: disk1s2 (null) as target
+Mar 18 10:41:59 imac-de-maupile.home InstallAssistant_plain[19603]: diskChanged: disk1s2
+Mar 18 10:42:04 imac-de-maupile.home InstallAssistant_plain[19603]: diskEjected: disk1
+Mar 18 10:42:04 imac-de-maupile.home InstallAssistant_plain[19603]: diskEjected: disk1s2
+Mar 18 10:42:04 imac-de-maupile.home InstallAssistant_plain[19603]: diskEjected: disk1s1
+Mar 18 10:42:07 imac-de-maupile.home InstallAssistant_plain[19603]: diskAppeared: disk1s2
+Mar 18 10:42:07 imac-de-maupile.home InstallAssistant_plain[19603]: Ignoring non-user-visible disk IADisk_10_6: disk1s2 Copies de sauvegarde Time Machine as target
+Mar 18 10:42:07 imac-de-maupile.home InstallAssistant_plain[19603]: diskAppeared: disk1s1
+Mar 18 10:42:07 imac-de-maupile.home InstallAssistant_plain[19603]: Ignoring non-user-visible disk IADisk_10_6: disk1s1 EFI as target
+Mar 18 10:42:07 imac-de-maupile.home InstallAssistant_plain[19603]: diskAppeared: disk1
+Mar 18 10:42:07 imac-de-maupile.home InstallAssistant_plain[19603]: Ignoring non-user-visible disk IADisk_10_6: disk1 (null) as target
+Mar 18 10:42:09 imac-de-maupile.home InstallAssistant_plain[19603]: diskEjected: disk1
+Mar 18 10:42:09 imac-de-maupile.home InstallAssistant_plain[19603]: diskEjected: disk1s2
+Mar 18 10:42:09 imac-de-maupile.home InstallAssistant_plain[19603]: diskEjected: disk1s1
+Mar 18 10:42:10 imac-de-maupile.home InstallAssistant_plain[19603]: diskAppeared: disk2s1
+Mar 18 10:42:10 imac-de-maupile.home InstallAssistant_plain[19603]: Ignoring non-user-visible disk IADisk_10_6: disk2s1 EFI as target
+Mar 18 10:42:10 imac-de-maupile.home InstallAssistant_plain[19603]: diskAppeared: disk2s2
+Mar 18 10:42:10 imac-de-maupile.home InstallAssistant_plain[19603]: Ignoring non-user-visible disk IADisk_10_6: disk2s2 Copies de sauvegarde Time Machine as target
+Mar 18 10:42:10 imac-de-maupile.home InstallAssistant_plain[19603]: diskAppeared: disk2
+Mar 18 10:42:10 imac-de-maupile.home InstallAssistant_plain[19603]: Ignoring non-user-visible disk IADisk_10_6: disk2 (null) as target
+Mar 18 10:42:11 imac-de-maupile.home InstallAssistant_plain[19603]: diskMounted: disk2s2
+Mar 18 10:42:11 imac-de-maupile.home InstallAssistant_plain[19603]: Ignoring non-user-visible disk IADisk_10_6: disk2s2 Copies de sauvegarde Time Machine as target
